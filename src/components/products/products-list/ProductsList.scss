@@ -1,0 +1,26 @@
+.products-list-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wide {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.marg {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.myForm {
+    display: flex;
+    border: 0px;
+    flex-direction: row;
+}
+
+.myBtn {
+    margin-top: -12px;
+    margin-left: 15px;
+}
